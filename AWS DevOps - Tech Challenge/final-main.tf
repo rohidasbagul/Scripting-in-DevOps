@@ -1,4 +1,4 @@
-aws/final-main.tf
+#aws/final-main.tf
 
 provider "aws" {
   profile = "default"
