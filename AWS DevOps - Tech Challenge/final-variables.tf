@@ -1,4 +1,4 @@
-#aws/variables.tf
+#aws/final-variables.tf
 
 variable "region" {
   description = "AWS region to create VPC"
